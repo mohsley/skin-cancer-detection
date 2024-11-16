@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project focuses on developing and comparing various machine learning models for skin cancer detection using the ISIC 2024 3D-TBP (Three-Point Dermoscopy) dataset. The goal is to create accurate classification models that can assist in the early detection of skin cancer.
+This project focuses on developing and comparing various machine-learning models for skin cancer detection using the ISIC 2024 3D-TBP (Three-Point Dermoscopy) dataset. The goal is to create accurate classification models that can assist in the early detection of skin cancer.
 
 ### Team Members
 
@@ -10,6 +10,7 @@ This project focuses on developing and comparing various machine learning models
 - Anavi Reddy
 - Ashley Manese
 - Simran Kapoor
+- Andy Liang
 
 ### Dataset
 
@@ -17,7 +18,7 @@ The project utilizes the ISIC 2024 Skin Cancer Detection with 3D-TBP dataset fro
 
 ### Models Implemented
 
-We have implemented and compared the following classification algorithms:
+We are implementing and comparing the following classification algorithms:
 
 1. K-Nearest Neighbors (KNN)
 
